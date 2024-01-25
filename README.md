@@ -3,4 +3,4 @@
 
 ### Just simple application making with HTML, CSS, and Javascript to learn and improve basic javascript
 
-##### learn from Greatstack
+##### learn from GreatStack
