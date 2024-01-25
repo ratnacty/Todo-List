@@ -1,4 +1,6 @@
 
 # To-Do List 
 
-### Just simple aplikasi making with HTML,CSS,Javascript to learn and improve basic javascript
+### Just simple application making with HTML, CSS, and Javascript to learn and improve basic javascript
+
+##### learn from Greatstack
